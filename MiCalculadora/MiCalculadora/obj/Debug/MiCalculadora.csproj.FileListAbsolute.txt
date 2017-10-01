@@ -1,0 +1,6 @@
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.csprojResolveAssemblyReference.cache
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora\obj\Debug\MiCalculadora.pdb

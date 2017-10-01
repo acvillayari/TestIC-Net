@@ -1,0 +1,9 @@
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora.Test\bin\Debug\MiCalculadora.Test.dll
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora.Test\bin\Debug\MiCalculadora.Test.pdb
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora.Test\bin\Debug\MiCalculadora.exe
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora.Test\bin\Debug\MiCalculadora.pdb
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora.Test\bin\Debug\es\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora.Test\obj\Debug\MiCalculadora.Test.csprojResolveAssemblyReference.cache
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora.Test\obj\Debug\MiCalculadora.Test.dll
+C:\ASD-2017-I\03_Laboratorios\TestIC-Net\MiCalculadora\MiCalculadora.Test\obj\Debug\MiCalculadora.Test.pdb
